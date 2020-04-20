@@ -1,11 +1,18 @@
 # Projecto TecBlog
 
-<<<<<<< HEAD
-Este projecto foi desenvolvido no curso desenvolvimento Web - Udemy
 
-=======
-Meu projecto de treinamento sobre HTML5 e CSS3
-___________________________________________________________________________________________________________________________________________
->>>>>>> 8d7a21274bf3fee723d9a9d9dcfe38a2af6aecb3
+Este projecto foi desenvolvido no curso desenvolvimento Web da Udemy. É um simples projecto sobre a linguagem de marcação HTML e a linguagem de estilização CSS3.
+O projecto foi desenvolvido para lembrar os conhecimentos adquiridos até ao momento.
 
-Este projecto foi desenvolvido para treinamento sobre HTML5 e CSS3 com um site estático
+Como começar
+
+O site roda em HTML5 e CSS3, e para rodá-lo só precisas de clonar o projecto no teu computador.
+
+
+Construido com
+
+O projecto foi desenvolvido com Sublime text editor.
+
+Autor
+
+José Ulombe

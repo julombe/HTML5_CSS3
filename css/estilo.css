@@ -9,6 +9,11 @@ body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	background: #e6e6e6;
 }
+.dark-mode {
+	background-color: black;
+	color: white;
+
+}
 
 /**** Layout *****/
 
@@ -58,7 +63,7 @@ padding: 5px;
 border-bottom: 1px dotted #CCC;
 }
 
-#rodape {
+.rodape {
 	clear: both;
 	text-align: center;
 	padding: 15px;

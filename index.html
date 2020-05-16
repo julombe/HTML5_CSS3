@@ -4,9 +4,19 @@
 <head>
 	<title>TecBlog - O seu blog de tecnologia</title>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
+
+<button onclick="myFunction()">Dark Mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
 	<div id="area-cabecalho">
 
 		<div id="area-logo">
@@ -78,8 +88,8 @@
 			</div>
 		</div>
 
-		<div id="rodape">
-			Todos os direitos reservados
+		<div class="rodape">
+			&copy; Copyright TecBlog 2020. Todos os direitos reservados
 		</div>
 
 	</div>

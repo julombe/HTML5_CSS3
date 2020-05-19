@@ -12,6 +12,7 @@ body {
 .dark-mode {
 	background-color: black;
 	color: white;
+	
 
 }
 
@@ -67,7 +68,11 @@ border-bottom: 1px dotted #CCC;
 	clear: both;
 	text-align: center;
 	padding: 15px;
-	background: #CCC;
+	/*background: #CCC;*/
+	background: #f7b600;
+	width: 100%;
+	
+	
 	
 }
 /**** Formatação do menu ****/

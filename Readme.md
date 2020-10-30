@@ -1,4 +1,6 @@
-# Projecto TecBlog
+<h1 align="center">
+ Projecto TecBlog
+</h1>
 
 
 

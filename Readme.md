@@ -1,8 +1,7 @@
 # Projecto TecBlog
 
 
-Este projecto foi desenvolvido no curso desenvolvimento Web da Udemy. É um simples projecto sobre a linguagem de marcação HTML e a linguagem de estilização CSS3.
-O projecto foi desenvolvido para lembrar os conhecimentos adquiridos até ao momento.
+
 
 ## Como começar
 
@@ -26,7 +25,8 @@ José Ulombe
 
 ## 🎯Sobre
 
-O projecto **Ecoleta** é um aplicativo para ajudar pessoas a encontrarem pontos de coleta de materiais que não devem ser descartados na natureza, como pilhas, óleo de cozinha usado ou lixo eletrônico, tudo isso em alusão a semana do ambiente.Foi desenvolvido na Next Level Week da **Rocketseat** com o intuito de desenvolver e absorver o conhecimento durante a semana.
+Este projecto foi desenvolvido no curso desenvolvimento Web da Udemy. É um simples projecto sobre a linguagem de marcação HTML e a linguagem de estilização CSS3.
+O projecto foi desenvolvido para lembrar os conhecimentos adquiridos até ao momento.
 
 ---
 

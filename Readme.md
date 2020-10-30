@@ -2,21 +2,6 @@
 
 
 
-
-## Como começar
-
-O site roda em HTML5 e CSS3, e para rodá-lo só precisas de clonar o projecto no teu computador.
-
-
-### Construido com
-
-O projecto foi desenvolvido com Sublime text editor.
-
-#### Autor
-
-José Ulombe
-
-
 # Índice
   - [Sobre](#sobre)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)

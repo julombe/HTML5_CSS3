@@ -1,14 +1,19 @@
-const express = require('express')
-const nunjucks = require('nunjucks')
+const express = require('express')  //importing express library
+const nunjucks = require('nunjucks') //importing nunjucks library
 
 const server = express()
 
 
+//CSS file using
+server.use(express.static('public'))
 
 
 
-
-
+//configuring template engine(nunjucks)
+server.set("view engine", "html")
+nunjucks.configure("views", {
+    express: server
+})
 
 
 // start server

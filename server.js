@@ -7,6 +7,7 @@ const server = express()
 
 //CSS file using
 server.use(express.static('public'))
+routes.use(routes)
 
 
 

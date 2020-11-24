@@ -1,5 +1,6 @@
 const express = require('express')  //importing express library
 const nunjucks = require('nunjucks') //importing nunjucks library
+const routes = require("./routes")
 
 const server = express()
 

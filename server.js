@@ -14,7 +14,9 @@ server.use(routes)
 //configuring template engine(nunjucks)
 server.set("view engine", "html")
 nunjucks.configure("views", {
-    express: server
+    express: server,
+    autoescape: false,
+    noCache: true
 })
 
 

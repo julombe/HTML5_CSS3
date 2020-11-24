@@ -1,5 +1,5 @@
 <h1 align="center">
- Projecto TecBlog
+ TecBlog
 </h1>
 
 

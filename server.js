@@ -17,6 +17,7 @@ nunjucks.configure("views", {
     express: server
 })
 
+
 // start server
 server.listen(3001, function(req, res) {
     console.log("server is running")

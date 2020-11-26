@@ -68,12 +68,12 @@ body {
 }
 
 .rodape {
+  width: 100%;
   clear: both;
   text-align: center;
   padding: 15px;
   /*background: #CCC;*/
   background: #f7b600;
-  width: 100%;
 }
 /**** Formatação do menu ****/
 /*formatando os links*/
